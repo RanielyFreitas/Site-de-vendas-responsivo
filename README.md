@@ -4,4 +4,4 @@ Nesse repositório você encontra um projeto de um site responsivo para uma empr
 
 ## Projeto finalizado:
 
-![Output sample]
+![Output sample](https://github.com/RanielyFreitas/Site-de-vendas-responsivo/blob/maIN/images/site.gif)
